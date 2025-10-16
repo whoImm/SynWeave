@@ -35,7 +35,7 @@
 
 ### Installation
 ```bash
-git clone https://github.com/whoImm/synweave.git
+git clone https://github.com/whoImm/SynWeave.git
 cd synweave
 pip install -r requirements.txt
 python main.py
