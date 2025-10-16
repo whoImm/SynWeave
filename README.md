@@ -1,4 +1,4 @@
-# SynWeave - Advanced Password Intelligence 🔥
+# SynWeave - 🔥
 
 ![Banner](https://via.placeholder.com/800x200/1a1a1a/ffffff?text=SYNWEAVE+ADVANCED+PASSWORD+INTELLIGENCE)
 
