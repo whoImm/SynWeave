@@ -1,6 +1,6 @@
-# SynWeave - 🔥
+#                                                                           SynWeave
 
-![Banner](https://via.placeholder.com/800x200/1a1a1a/ffffff?text=SYNWEAVE+ADVANCED+PASSWORD+INTELLIGENCE)
+![Banner](https://i.hizliresim.com/3zhwn12.png))
 
 ---
 
