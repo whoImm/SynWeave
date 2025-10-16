@@ -1,6 +1,7 @@
-#                                                                           SynWeave
+![Banner](https://i.hizliresim.com/3zhwn12.png)
 
-![Banner](https://i.hizliresim.com/3zhwn12.png))
+
+# SynWeave
 
 ---
 
