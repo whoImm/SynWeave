@@ -1,0 +1,5 @@
+rich>=13.0.0
+colorama>=0.4.6
+pyfiglet>=0.8.post1
+tqdm>=4.65.0
+cryptography>=41.0.0
